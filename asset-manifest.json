@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Advice/static/css/main.9cac7125.css",
-    "main.js": "/Advice/static/js/main.f261c3b1.js",
-    "static/js/453.56f46472.chunk.js": "/Advice/static/js/453.56f46472.chunk.js",
-    "static/media/city.jpg": "/Advice/static/media/city.66512aa4c316df20b752.jpg",
-    "index.html": "/Advice/index.html",
-    "main.9cac7125.css.map": "/Advice/static/css/main.9cac7125.css.map",
-    "main.f261c3b1.js.map": "/Advice/static/js/main.f261c3b1.js.map",
-    "453.56f46472.chunk.js.map": "/Advice/static/js/453.56f46472.chunk.js.map"
+    "main.css": "/Advice_app/static/css/main.bca4af59.css",
+    "main.js": "/Advice_app/static/js/main.5183c710.js",
+    "static/js/453.56f46472.chunk.js": "/Advice_app/static/js/453.56f46472.chunk.js",
+    "static/media/city.jpg": "/Advice_app/static/media/city.66512aa4c316df20b752.jpg",
+    "index.html": "/Advice_app/index.html",
+    "main.bca4af59.css.map": "/Advice_app/static/css/main.bca4af59.css.map",
+    "main.5183c710.js.map": "/Advice_app/static/js/main.5183c710.js.map",
+    "453.56f46472.chunk.js.map": "/Advice_app/static/js/453.56f46472.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9cac7125.css",
-    "static/js/main.f261c3b1.js"
+    "static/css/main.bca4af59.css",
+    "static/js/main.5183c710.js"
   ]
 }
